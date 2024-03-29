@@ -1,0 +1,96 @@
+.mainBox{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 250px;
+}
+
+.quadrado1{
+    border: 2px solid black;
+    padding: 5px;
+    margin: 5px;
+    background-color: #ADFF2F;
+    box-shadow: 3px 3px 3px;
+}
+
+.quadrado1:hover{
+    border: 2px solid black;
+    padding: 5px;
+    margin: 5px;
+    background-color: #00BFFF;
+}
+
+.quadrado2{
+    border: 2px solid black;
+    padding: 5px;
+    margin: 5px;
+    background-color: #7FFF00;
+    box-shadow: 3px 3px 3px;
+}
+
+.quadrado2:hover{
+    border: 2px solid black;
+    padding: 5px;
+    margin: 5px;
+    background-color: #1E90FF;
+}
+
+.quadrado3{
+    border: 2px solid black;
+    padding: 5px;
+    margin: 5px;
+    background-color: #7CFC00;
+    box-shadow: 3px 3px 3px;
+}
+
+.quadrado3:hover{
+    border: 2px solid black;
+    padding: 5px;
+    margin: 5px;
+    background-color: #0000FF;
+}
+
+.quadrado4{
+    border: 2px solid black;
+    padding: 5px;
+    margin: 5px;
+    background-color: #00FF00;
+    box-shadow: 3px 3px 3px;
+}
+
+.quadrado4:hover{
+    border: 2px solid black;
+    padding: 5px;
+    margin: 5px;
+    background-color: #0000CD;
+}
+
+.quadrado5{
+    border: 2px solid black;
+    padding: 5px;
+    margin: 5px;
+    background-color: #32CD32;
+    box-shadow: 3px 3px 3px;
+}
+
+.quadrado5:hover{
+    border: 2px solid black;
+    padding: 5px;
+    margin: 5px;
+    background-color: #00008B;
+}
+
+.quadrado6{
+    border: 2px solid black;
+    padding: 5px;
+    margin: 5px;
+    background-color: #228B22;
+    box-shadow: 3px 3px 3px;
+}
+
+.quadrado6:hover{
+    border: 2px solid black;
+    padding: 5px;
+    margin: 5px;
+    background-color: #000080;
+}
